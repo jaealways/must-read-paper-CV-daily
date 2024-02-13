@@ -13,7 +13,7 @@
 
 - [ ] Data-driven Feature Tracking for Event Cameras
 
-- [ ] On Distillation of Guided Diffusion Models
+- [x] On Distillation of Guided Diffusion Models
 
 - [x] Visual Programming: Compositional visual reasoning without training
 
@@ -260,9 +260,9 @@
 
 - [ ] Self-Supervised Video Forensics by Audio-Visual Anomaly Detection
 
-- [ ] Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?
+- [x] Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?
 
-- [ ] CREPE: Can Vision-Language Foundation Models Reason Compositionally?
+- [x] CREPE: Can Vision-Language Foundation Models Reason Compositionally?
 
 - [ ] Context-aware Alignment and Mutual Masking for 3D-Language Pre-training
 
@@ -272,7 +272,7 @@
 
 - [ ] Beyond mAP: Towards better evaluation of instance segmentation
 
-- [ ] ProtoCon: Pseudo-label Refinement via Online Clustering and Prototypical Consistency for Efficient Semi-supervised Learning
+- [x] ProtoCon: Pseudo-label Refinement via Online Clustering and Prototypical Consistency for Efficient Semi-supervised Learning
 
 - [ ] Towards Better Stability and Adaptability: Improve Online Self-Training for Model Adaptation in Semantic Segmentation
 
